@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your not welcome</title>
+</head>
+<body>    <div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="C:\Users\NIK COMPUTER\Pictures\Screenshots\photo_2024-12-20_18-42-49.jpg" alt="Left Image" style="width: 200px; height: auto; border-radius: 10px;">
+  <div>
+      <!-- محتوای اصلی صفحه -->
+      <h1>Wlc</h1>
+      <p>About Mil</p>
+      <p>Some infos about Milad.</p>
+      <ul>
+          <li>24/7 Horny</li>
+          <li>Kills everyday</li>
+          <li>Eats and sleep</li>
+      </ul>
+  </div>
+  <img src="C:\Users\NIK COMPUTER\Pictures\Screenshots\photo_2024-12-20_18-42-44.jpg" alt="Right Image" style="width: 200px; height: auto; border-radius: 10px;">
+</div>
+<a href="https://www.google.com" target="https://google.com"></a>
+<img src="C:\Users\NIK COMPUTER\Pictures\1716187009003.jpg" alt="image.jpg" width="200" height="200">
+  <ol>
+    <style>
+      ol {
+        list-style-type: none; /* حذف اعداد */
+        padding: 0;
+      }
+    </style>
+  </ol>
+  <ol>
+    <p> <strong>What he likes more</strong> :</p>
+    <li>1 : his little pookie nastaran</li>
+    <li>2 : his pookie mookie nasi</li>
+    <li>3 : nasi kooshoolo and nasi doozhooloo</li>
+    <li>4 : everything thats about nasi</li>
+  </ol>
+  <a href="https://www.youtube.com/shorts/2yXGFTee8s4">                  For you POOKIE           </a>
+  <img src="C:\Users\NIK COMPUTER\Pictures\Screenshots\Screenshot 2024-12-20 135606.png" alt="عکس طبیعت">
+  <a href="https://youtube.com/shorts/qQh5wMk1r4c?si=8QJ2719rrPG3Rw-h" style="display:inline-block; padding:10px 20px; background-color:#6416d1; color:white; text-decoration:none; border-radius:5px;">Iknow u are sad, So...</a>
+  <title>Surprise for You ❤️</title>
+  <style>
+    body {
+      font-family: 'Comic Sans MS', cursive;
+      background: linear-gradient(to bottom right, #6700c2, #e2008b);
+      color: #fffcfc;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    .heart {
+      animation: float 2s infinite;
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+  </style>
+</head>
+<body>
+  <table style="border-collapse: collapse; width: 50%; text-align: center;">
+    <tr>
+      <table style="border-collapse: collapse; width: 90%; margin: auto; text-align: center;">
+
+        <th style="border: 1px solid #ddd; padding: 16px; background-color: #fe00e0; color: rgb(149, 0, 213);">درصد عشق نسی به میلاد</th>
+        <th style="border: 1px solid #ddd; padding: 16px; background-color: #fe00e0; color: rgb(149, 0, 213);">درصد عشق میلاد به نسی</th>
+        <th style="border: 1px solid #ddd; padding: 16px; background-color: #fe00ed; color: rgb(149, 0, 213);">اسم عشق میلاد</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #ddd; padding: 16px;">100000000000000.....%</td>
+        <td style="border: 1px solid #ddd; padding: 16px;">100000000000000.....%</td>
+        <td style="border: 1px solid #ddd; padding: 16px;">نسترن بابو</td>
+    </tr>
+    <tr>
+    </tr>
+</table>
+
+  <h1>Hi, My Love! 💖</h1>
+  <p>You mean the world to me, and I made this just for you!</p>
+  <img src="C:\Users\NIK COMPUTER\Pictures\Screenshots\photo_2024-12-20_14-18-44.jpg" alt="Koromi" class="heart" width="200">
+  <footer>
+    <p>Made with love by Miladi</p>
+  </footer>
+  <div style="margin: 20px 0;">
+    <p>Milad's love for Nastaran: 💖</p>
+    <div style="background-color: #f3f3f3; border-radius: 5px; width: 100%; height: 20px; position: relative;">
+        <div style="width: 100%; height: 100%; border-radius: 5px; animation: colorChange 5s infinite; background: linear-gradient(90deg, #ff69b4, #ff6347, #ffff00, #00ff00, #0000ff); background-size: 400% 400%; position: relative;">
+            <!-- Adding hearts as emojis inside the progress bar -->
+            <span style="position: absolute; top: 50%; left: 5%; font-size: 14px; animation: heartMove 2s infinite;">💖</span>
+            <span style="position: absolute; top: 50%; left: 15%; font-size: 14px; animation: heartMove 2s infinite 0.5s;">💖</span>
+            <span style="position: absolute; top: 50%; left: 25%; font-size: 14px; animation: heartMove 2s infinite 1s;">💖</span>
+            <span style="position: absolute; top: 50%; left: 35%; font-size: 14px; animation: heartMove 2s infinite 1.5s;">💖</span>
+            <span style="position: absolute; top: 50%; left: 45%; font-size: 14px; animation: heartMove 2s infinite 2s;">💖</span>
+            <span style="position: absolute; top: 50%; left: 55%; font-size: 14px; animation: heartMove 2s infinite 2.5s;">💖</span>
+            <span style="position: absolute; top: 50%; left: 65%; font-size: 14px; animation: heartMove 2s infinite 3s;">💖</span>
+            <span style="position: absolute; top: 50%; left: 75%; font-size: 14px; animation: heartMove 2s infinite 3.5s;">💖</span>
+            <span style="position: absolute; top: 50%; left: 85%; font-size: 14px; animation: heartMove 2s infinite 4s;">💖</span>
+        </div>
+    </div>
+</div>
+
+<style>
+@keyframes colorChange {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+@keyframes heartMove {
+    0% {
+        transform: translateX(0);
+    }
+    50% {
+        transform: translateX(5px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+</style>
+
+</body>
+</html>
